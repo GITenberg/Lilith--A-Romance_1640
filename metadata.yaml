@@ -1,0 +1,39 @@
+_repo: Lilith--A-Romance_1640
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: "Lilith is a fantasy novel written by Scottish writer George MacDonald\
+  \ and first published in 1895. Its importance was recognized in its later revival\
+  \ in paperback by Ballantine Books as the fifth volume of the celebrated Ballantine\
+  \ Adult Fantasy series in September 1969.\nLilith is considered among the darkest\
+  \ of MacDonald's works, and among the most profound. It is a story concerning the\
+  \ nature of life, death, and salvation. In the story, MacDonald mentions a cosmic\
+  \ sleep that heals tortured souls, preceding the salvation of all. MacDonald was\
+  \ a Christian universalist, believing that all will eventually be saved. However,\
+  \ in this story, divine punishment is not taken lightly, and salvation is hard-won.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1640'
+  wikidata: Q3832392
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Lilith: A Romance'
+url: http://www.gutenberg.org/ebooks/1640
+wikipedia:
+- https://en.wikipedia.org/wiki/Lilith_(novel)
+- https://it.wikipedia.org/wiki/Lilith_(romanzo)
+- https://es.wikipedia.org/wiki/Lilith_(novela)
